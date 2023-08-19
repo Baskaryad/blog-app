@@ -1,4 +1,3 @@
-//import TopBar from "./components/topbar/TopBar"
 import Post from "../post/Post"
 import "./posts.css"
 

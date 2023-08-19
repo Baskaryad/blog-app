@@ -1,4 +1,3 @@
-//import TopBar from "./components/topbar/TopBar"
 import "./post.css"
 
 export default function Post() {

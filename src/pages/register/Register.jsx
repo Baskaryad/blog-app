@@ -1,4 +1,3 @@
-//import TopBar from "../components/topbar/TopBar"
 import "./register.css";
 
 export default function Register() {
